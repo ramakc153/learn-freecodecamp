@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Ramadhana",
 	"description" : "this project is part of backend learning",
+	"keywords" : ["freecodecamp", "backend", "node.js"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
